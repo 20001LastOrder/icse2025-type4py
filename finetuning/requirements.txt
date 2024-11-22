@@ -1,0 +1,5 @@
+networkx
+transformers==4.39.1
+datasets==2.18.0
+pandas
+orjson
